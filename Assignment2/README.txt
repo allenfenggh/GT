@@ -5,7 +5,7 @@ Data source:
   https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
 
 Notebook directory：
-  https://github.com/allenfenggh/GT_CS7641MachineLearning
+  https://github.com/allenfenggh/GT_CS7641MachineLearning/tree/main/Assignment2
 
 Instruction:
   Base.csv - Fraud Dataset
