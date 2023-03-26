@@ -7,7 +7,7 @@ Data source:
   https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation?select=train.csv
 
 Notebook directory：
-  https://github.com/allenfenggh/GT_CS7641MachineLearning/tree/main/Assignment2
+  https://github.com/allenfenggh/GT_CS7641MachineLearning/tree/main/Assignment3
 
 Instruction:
   Base.csv - Fraud Dataset
