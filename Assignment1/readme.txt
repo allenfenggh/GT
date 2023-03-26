@@ -8,7 +8,7 @@ Data source:
 
 
 Notebook source
-  https://github.com/allenfenggh/GT_CS7641MachineLearning
+  https://github.com/allenfenggh/GT_CS7641MachineLearning/tree/main/Assignment1
 
 Instruction:
   Base.csv - Fraud Dataset
