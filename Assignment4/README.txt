@@ -1,7 +1,7 @@
 GT CS7641 Machine Learning Assignment 4 - Markov Decision Processes
 
 Notebook directory：
-  https://github.com/allenfenggh/GT_CS7641MachineLearning/tree/main/Assignment4
+  https://github.com/allenfenggh/GT_CS7641MachineLearning/blob/main/Assignment4/
 
 Instruction:
   forest_management_value_policy_iteration_qlearning.ipynb - run this notebook to get forest management value iteration, policy iteration, and qlearning output and graphs
